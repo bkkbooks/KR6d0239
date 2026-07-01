@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6d0239/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0239/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 北峯教義
+  identifiers:
+    krp: KR6d0239
+    cbeta: X57n0963
+    cbeta_old_id: X57n0963
+    authorityid: CA0000287
+    json_key: X0963
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0963.xml
+    old_id: X57n0963
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0239_000-X.yaml, hash: 'sha256:77faf8cf1eb7530e275bb50836ec631a66b16ed0a03f6c376bdebc495884f22b'}
+  - {seq: 1, filename: KR6d0239_001-X.yaml, hash: 'sha256:688c2c0de94c722ecb9975cf2fd11ec6ee31138692302fa1fd28e2bf15ccea6d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0239_000-X.markers.yaml, hash: 'sha256:22476e67829e8bff620892b6074d81c74fd12d2185f8117e42ff8bc30e49b142'}
+  - {seq: 1, role: markers, filename: assets/KR6d0239_001-X.markers.yaml, hash: 'sha256:df2d429c221689b30b55c5e1d0f9236929adf6777d1f4bda7e783c0e4acd21a3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11084
+  label: 北峰教義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三千章十科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 一出本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-3
+    span:
+    - body
+    - 1111
+    - 1111
+  label: 二辨三諦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-4
+    span:
+    - body
+    - 2783
+    - 2783
+  label: 三明事理
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-5
+    span:
+    - body
+    - 3869
+    - 3869
+  label: 四簡權實
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-6
+    span:
+    - body
+    - 4498
+    - 4498
+  label: 五顯體用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-7
+    span:
+    - body
+    - 5121
+    - 5121
+  label: 六述互具
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-8
+    span:
+    - body
+    - 7455
+    - 7455
+  label: 七譬喻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-9
+    span:
+    - body
+    - 7911
+    - 7911
+  label: 八示別圓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-10
+    span:
+    - body
+    - 8702
+    - 8702
+  label: 九對四土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0239_X_001-mulu-11
+    span:
+    - body
+    - 9281
+    - 9281
+  label: 十判六即
+  type: mulu
+  level: 1
+hash: sha256:4cf124250d94124141c763dff621e9506d73c48591f0b9996af301cebd6675b0

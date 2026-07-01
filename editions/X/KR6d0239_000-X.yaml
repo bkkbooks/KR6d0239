@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0239/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 北峯教義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0963.xml
+    old_id: X57n0963
+hash: sha256:77faf8cf1eb7530e275bb50836ec631a66b16ed0a03f6c376bdebc495884f22b
